@@ -2,7 +2,7 @@ Record Program {
 Loop *4 [
 Forward(2);
 Right(1);
-     ]
+]
 Stop Program Record
 }
 
